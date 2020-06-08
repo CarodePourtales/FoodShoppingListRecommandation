@@ -5,7 +5,7 @@ Making a food shopping list can be tricky. First you should know the meals you w
 So what if, with this information, you could just pick up meals and instantly build the shopping list ? Most of people go on internet to look at a recipe and see what they have to buy but this takes time since you also have to look at your fridge. It would be easier for an user to just type a meal into a console and the tool would retrieve the ingredients in the fridge, the ingredients the user needs, and compose the shopping list.
 So that the combination of computer vision on a fridge and information retrieval from cooking websites could be the next tool against waste of both time and food.
 
-The user should enter names of recipes in the console and the tool would retrieve the ingredi- ents by searching on internet thanks to a chrome driver, using regular expressions, and tagging ingredients.
+Here I only worked on information retrieval part, the user should enter names of recipes in the console and the tool would retrieve the best recipe's ingredients by searching on internet thanks to a chrome driver, using regular expressions, and tagging ingredients. Then by comparison with the fridge, the algorithm would build the shopping list according to what the users needs.
 
 ## Setup
 
